@@ -14,7 +14,7 @@
         <li>No ads are shown.</li>
         <li>No analytics or tracking tools are used.</li>
         <li>No information is shared with third parties.</li>
-       <li> Target audience includes children under 13.<li>
+       <li> Target audience includes children under 13.
     </ul>
     <p>If you have any questions, contact us at: halimlais@hotmail.com</p>
 </body>
