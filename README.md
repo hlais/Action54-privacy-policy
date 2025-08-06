@@ -16,6 +16,6 @@
         <li>No information is shared with third parties.</li>
        <li> Target audience includes children under 13.
     </ul>
-    <p>If you have any questions, contact us at: halimlais@hotmail.com</p>
+    <p>If you have any questions, contact us at: isolatedgamers85@gmail.com</p>
 </body>
 </html>
