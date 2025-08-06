@@ -11,7 +11,6 @@
     <p><strong>Action54</strong> does not collect, use, store, or share any personal or sensitive user data.</p>
     <ul>
         <li>No personal information is collected.</li>
-        <li>No ads are shown.</li>
         <li>No analytics or tracking tools are used.</li>
         <li>No information is shared with third parties.</li>
        <li> Target audience includes children under 13.
