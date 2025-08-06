@@ -15,6 +15,6 @@
         <li>No analytics or tracking tools are used.</li>
         <li>No information is shared with third parties.</li>
     </ul>
-    <p>If you have any questions, contact us at: [halimlais@hotmail.com]</p>
+    <p>If you have any questions, contact us at: halimlais@hotmail.com</p>
 </body>
 </html>
